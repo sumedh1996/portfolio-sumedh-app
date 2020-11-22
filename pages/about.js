@@ -41,9 +41,7 @@ const About = () => {
             <div className={`${createFadeInClass()}`}>
               <p>My name is Sumedh Raj and I am an experienced software engineer and freelance developer. </p>
               <p>
-              I have a Master's degree in Artificial Intelligence and several years of experience working
-              on a wide range of technologies and projects from C++ development for ultrasound devices to
-                modern mobile and web applications in React and Angular.
+              TBD
               </p>
             </div>
           </Col>

@@ -1,4 +1,4 @@
-# portfolio-jerga-app
+# portfolio-sumedh-app
 Next.js Serverless App 
 
 
